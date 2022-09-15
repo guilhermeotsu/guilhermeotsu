@@ -3,4 +3,4 @@ hi, im a brazilian software developer i like to build weird things. i have inter
 ping me https://t.me/guilhermeotsu
 
 
-**knowledge:** .net, c#, javascript, jquery, html, css, react
+**knowledge:** .net, c#, javascript, jquery, html, css, angular, react
